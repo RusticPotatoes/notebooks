@@ -16,3 +16,4 @@ tf-keras
 transformers[torch]
 seaborn
 tpot
+pmdarima

@@ -167,3 +167,5 @@ cython_debug/
 **results_finetune/
 **results/
 **finetuned_model/
+**.pkl
+**.csv

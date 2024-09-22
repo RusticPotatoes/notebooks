@@ -1,0 +1,17 @@
+tensorflow-macos 
+tensorflow-metal
+numpy
+pandas
+scikit-learn
+jupyter
+matplotlib
+ipykernel
+python-dotenv
+datasets
+transformers
+torch
+torchvision 
+torchaudio
+tf-keras
+transformers[torch]
+seaborn
